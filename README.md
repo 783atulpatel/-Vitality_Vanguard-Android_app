@@ -70,3 +70,4 @@ The goal of our app is to provide a faster and more efficient way for patients t
 ![19](https://user-images.githubusercontent.com/71918236/228126894-59421537-b1f2-4a87-8490-9b9d0e0feff3.jpg)
 ![20](https://user-images.githubusercontent.com/71918236/228126897-5632489d-f4fd-40d7-95d3-52356164df5f.jpg)
 ![21](https://user-images.githubusercontent.com/71918236/228126901-2b0b7a6d-3e46-4df4-b64a-ec89cb9c0a9a.jpg)
+.
